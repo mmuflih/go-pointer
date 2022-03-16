@@ -1,4 +1,4 @@
-package pointer
+package ptr
 
 /**
  * Created by Muhammad Muflih Kholidin
